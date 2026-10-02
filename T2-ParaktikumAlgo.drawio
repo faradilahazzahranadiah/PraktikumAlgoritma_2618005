@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="pt9ZZy9GLwLsT9JQZtzs">
+    <mxGraphModel dx="491" dy="270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Mulai&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="380" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-9" edge="1" parent="1" source="zA_uFsqSx-fsjWNC09hz-6" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;verticalAlign=middle;" target="zA_uFsqSx-fsjWNC09hz-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="210" as="sourcePoint" />
+            <mxPoint x="425" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-10" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;Deklarasi variabel:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;string: Nama, Kelas&lt;/div&gt;&lt;div&gt;int: NIM, Semester, IPK&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="180" x="350" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-11" edge="1" parent="1" source="zA_uFsqSx-fsjWNC09hz-10" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="240" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-14" edge="1" parent="1" source="zA_uFsqSx-fsjWNC09hz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-12" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Input Nama" vertex="1">
+          <mxGeometry height="40" width="180" x="350" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-15" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Input NIM&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="350" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-16" edge="1" parent="1" source="zA_uFsqSx-fsjWNC09hz-15" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="zA_uFsqSx-fsjWNC09hz-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="435" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-17" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Input Kelas" vertex="1">
+          <mxGeometry height="40" width="170" x="350" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-18" edge="1" parent="1" source="zA_uFsqSx-fsjWNC09hz-17" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="435" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-19" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Input Semester&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="340" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-20" edge="1" parent="1" source="zA_uFsqSx-fsjWNC09hz-19" style="endArrow=classic;html=1;rounded=0;exitX=0.544;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="600" as="sourcePoint" />
+            <mxPoint x="437.92" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-21" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Input IPK&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="340" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-22" edge="1" parent="1" source="zA_uFsqSx-fsjWNC09hz-21" style="endArrow=classic;html=1;rounded=0;exitX=0.55;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" target="zA_uFsqSx-fsjWNC09hz-23" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="720" as="sourcePoint" />
+            <mxPoint x="439" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-23" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;verticalAlign=middle;" value="Tampilkan biodata mahasiswa:&amp;nbsp; Nama, NIM, Kelas, Semester, IPK" vertex="1">
+          <mxGeometry height="90" width="240" x="320" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-24" edge="1" parent="1" source="zA_uFsqSx-fsjWNC09hz-23" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="zA_uFsqSx-fsjWNC09hz-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="910" as="sourcePoint" />
+            <mxPoint x="440" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zA_uFsqSx-fsjWNC09hz-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Selesai" vertex="1">
+          <mxGeometry height="80" width="120" x="380" y="880" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
